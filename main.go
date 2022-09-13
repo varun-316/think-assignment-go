@@ -1,5 +1,7 @@
 package main
 
 func main() {
-	FizzBuzz(100)
+	// FizzBuzz(100)
+	// ATMMenu()
+	scrapeData()
 }
